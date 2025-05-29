@@ -1,0 +1,26 @@
+# 🔒 Sensitive environment variables
+.env
+
+# 📦 Node.js modules
+node_modules/
+
+# ⚙️ Hardhat build files
+artifacts/
+cache/
+typechain/
+typechain-types/
+coverage/
+coverage.json
+
+# 🧠 IDE/editor configs
+.vscode/
+.idea/
+
+# 🗑 OS-generated junk
+.DS_Store
+Thumbs.db
+
+# 📝 Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
