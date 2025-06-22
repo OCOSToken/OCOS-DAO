@@ -56,7 +56,7 @@ Burada aşağıdakı əsas mövzuları tapacaqsınız:
 - Xəzinə hesabları, böyük əməliyyatlar və balanslar hər zaman [treasury/](../treasury/) qovluğunda və blokçeyn üzərində ictimai şəkildə yoxlanıla bilər.
 - DAO-nun rəsmi **Bitcoin ünvanı:**  
   `1C4H17Ec1DRxSYJUEPB8xhnoWKiPhnrsXp`  
-  **Genesis aktivləşdirmə əməliyyatı:** 0.00047 BTC (01.07.2025 tarixində)
+  **Genesis aktivləşdirmə əməliyyatı:** 0.047 BTC (01.07.2025 tarixində)
 
 ---
 
