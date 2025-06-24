@@ -1,0 +1,25 @@
+# OCOS Genesis DAO Vault Proof Root
+# Generated from 47,000 symbolic S47-class addresses
+# Purpose: Immutable cryptographic reference for DAO and external verifiers
+
+MerkleRoot: 0x748cabcde3dff4a0a2be963e61e6b97dcbcc02c0c8efc1fa05c8b51acb47e2ae
+
+ProofType: Keccak256 Merkle Tree (Depth: 16)
+GeneratedAt: 2025-06-23T20:47:00Z
+SourceFile: data/s47_legacy_addresses.json
+AddressCount: 47000
+
+GenesisCommitment: 0x3b6f23a9b9f1e0b18e937d5a10c9e58e2ecf1c3b8b8d4e469c13cd741bfea981
+HashInputPhrase: OCOS_GENESIS_2025
+
+Note:
+- Each address leaf was formed as: keccak256(address + amount)
+- No BTC values are exposed; all listed as \"S47\"
+- Tree reproducible via vault_proof_generator.js (internal script)
+
+DAO Governance Signature:
+signed_by: 0xDAOAdminAddress
+signature: 0xeaa413...d7b9
+
+Verifiability:
+Anyone can reproduce this Merkle Root by rebuilding from `s47_legacy_addresses.json` with standard hashing logic.
