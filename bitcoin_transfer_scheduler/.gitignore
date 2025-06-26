@@ -1,0 +1,18 @@
+# Environment variable file (contains sensitive keys)
+.env
+
+# Encrypted and decrypted wallet files
+*.dat
+*.dat.aes
+
+# Python cache directory
+__pycache__/
+
+# Backup and secret files (sensitive or temporary)
+*.bak
+*.key
+*.secret
+
+# System files (MacOS, Windows, etc.)
+.DS_Store
+Thumbs.db
