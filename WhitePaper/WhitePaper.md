@@ -7,7 +7,7 @@
 
 ### 🌐 Introduction
 
-There are moments in decentralized history when silence speaks louder than identity, and code outweighs authorship. On **August 21 at precisely 00:47**, a sealed archive of **420 whitepapers** will be opened to the OCOS DAO community.
+There are moments in decentralized history when silence speaks louder than identity, and code outweighs authorship. On **August 21 at precisely 00:47**, a sealed archive of **407 whitepapers** will be opened to the OCOS DAO community.
 
 This is not merely a technical event — it is a symbolic release. One that does not reveal a name, but rather a structure of thought.  
 **No signatures, no identities — only cryptographic integrity.**
